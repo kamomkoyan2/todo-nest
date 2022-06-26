@@ -1,0 +1,25 @@
+.ant-row{
+    margin: 12px 0;
+}
+
+.ant-col {
+    margin: 12px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.ant-col-12 {
+    display: block;
+    flex: 0 0 30%;
+    max-width: 50%;
+}
+.delete:hover {
+    color: red !important;
+}
+
+.ant-space{
+    display: flex;
+}
+
+.ant-picker {
+    width: 100%;
+    margin: 12px 0;
+}

@@ -1,0 +1,18 @@
+.ant-row {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container {
+    box-sizing: border-box;
+    display: flex;
+    height: calc(100vh - 64px);
+    
+}
+
+.ant-input{
+    margin: 8px 0;
+}
